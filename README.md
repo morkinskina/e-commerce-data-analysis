@@ -1,13 +1,13 @@
 # E-commerce data analyzis
 
-В этом проекте я проанализировал данные продаж зарегестрированного в UK онлайн магазина,
-в котором содержались все транзакции этого магазина за период с 01-12-2009 по 09-12-2011.  
-Из описания следует, что компания в основном продает различные подарки, а многие её клиенты являются оптовыми продавцами.  
-Общедоступные e-commerce датасеты являются очень редкими, так как их распространение попадает под множество ограничений по защите комерческой тайны.  
-Поэтому я выбрал датасет, доступный для скачивания на сайте [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
-и на площадке [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+In this project, I analyzed the sales data of a UK-registered online store,
+which contained all the transactions of this store for the period from 01-12-2009 to 09-12-2011.
+From the description it follows that the company mainly sells various gifts, and many of its customers are wholesalers.
+Publicly available e-commerce datasets are very rare, as their distribution is subject to many trade secret restrictions.
+Therefore, I chose the dataset available for download at [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
+and on the [Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 
 ### Project Structure
-* e-commerce-processing.ipynb - предобработка датасета
-* e-commerce-eda.ipynb - анализ данных и визуализация
+* e-commerce-processing.ipynb - preprocessing of the dataset
+* e-commerce-eda.ipynb - data analysis and visualization
